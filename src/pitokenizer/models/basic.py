@@ -50,7 +50,7 @@ class BasicTokenizer(BytePairTokenizer):
             raise ValueError("vocab_size must be at least 256")
 
         ids = list(text.encode("utf-8"))
-        # Build locally so an impossible request cannot leave a partial model behind.
+        # Build locally, then publish the complete state reached by this corpus.
         merges: Dict[Pair, int] = {}
         vocab = {token_id: bytes([token_id]) for token_id in range(256)}
 
@@ -77,7 +77,7 @@ class BasicTokenizer(BytePairTokenizer):
             merges[pair] = token_id
             vocab[token_id] = vocab[pair[0]] + vocab[pair[1]]
 
-        # Publish the fully trained state only after every requested merge succeeded.
+        # Publish the model after all possible or requested merges have been processed.
         self.merges = merges
         self.vocab = vocab
 

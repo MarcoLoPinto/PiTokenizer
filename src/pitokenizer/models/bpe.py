@@ -108,8 +108,8 @@ class BytePairTokenizer(Tokenizer):
         Returns
         -------
         list of int
-            The shortest representation reachable using the learned merge
-            priority.
+            Representation produced by repeatedly applying available merges in
+            learned priority order.
         """
         while len(ids) > 1:
             pairs = self.pair_counts(ids)
@@ -191,10 +191,16 @@ class BytePairTokenizer(Tokenizer):
             left, right = raw_pair
             if not isinstance(left, int) or not isinstance(right, int):
                 raise ValueError(f"invalid merge: {raw_pair!r}")
-            if left not in self.vocab or right not in self.vocab:
-                raise ValueError(f"invalid merge: {raw_pair!r}")
+            missing_ids = [token for token in (left, right) if token not in self.vocab]
+            if missing_ids:
+                raise ValueError(
+                    f"merge token {token_id} references unavailable token IDs: {missing_ids}"
+                )
+            pair = (left, right)
+            if pair in self.merges:
+                raise ValueError(f"duplicate merge pair: {pair}")
             # Each merge may only refer to symbols created by earlier merges.
-            self.merges[(left, right)] = token_id
+            self.merges[pair] = token_id
             self.vocab[token_id] = self.vocab[left] + self.vocab[right]
 
     def _model_data(self) -> Dict[str, Any]:

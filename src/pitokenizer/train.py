@@ -55,7 +55,7 @@ def tokenizer_from_config(config: Mapping[str, Any]):
 
 
 def dataset_paths(config: Mapping[str, Any], config_path: Path) -> List[Path]:
-    """Resolve dataset names relative to the config file or project datasets folder."""
+    """Resolve dataset paths from the YAML directory or project datasets folder."""
     datasets = config.get("datasets")
     if not isinstance(datasets, list) or not datasets:
         raise ValueError("configuration datasets must be a non-empty list")
@@ -65,13 +65,10 @@ def dataset_paths(config: Mapping[str, Any], config_path: Path) -> List[Path]:
         if not isinstance(dataset, str) or not dataset:
             raise ValueError("every dataset entry must be a non-empty string")
         requested_path = Path(dataset)
-        candidates = [
-            requested_path,
-            config_path.parent / requested_path,
-            PROJECT_ROOT / "datasets" / requested_path,
-        ]
-        path = next((candidate for candidate in candidates if candidate.is_file()), None)
-        if path is None:
+        path = config_path.parent / requested_path
+        if not path.is_file():
+            path = PROJECT_ROOT / "datasets" / requested_path
+        if not path.is_file():
             raise FileNotFoundError(f"dataset does not exist: {dataset}")
         paths.append(path)
     return paths

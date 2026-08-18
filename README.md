@@ -94,7 +94,8 @@ Supported model names are the keys in `pitokenizer.AVAILABLE_MODELS`:
 `BasicTokenizer`, `RegexTokenizer`, and `GPT4Tokenizer`. `GPT4Tokenizer` has
 fixed weights and cannot be trained.
 
-Dataset entries can be absolute paths, paths relative to the configuration file, or file names resolved from `datasets/`.
+Dataset entries are resolved relative to the configuration file first, then
+from the project's `datasets/` directory.
 
 The installed command is:
 

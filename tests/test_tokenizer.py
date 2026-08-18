@@ -14,6 +14,7 @@ from pitokenizer import (
     RegexTokenizer,
     Tokenizer,
 )
+from pitokenizer.train import dataset_paths
 
 
 def test_byte_pair_base_builds_the_complete_byte_vocabulary():
@@ -32,6 +33,11 @@ def test_round_trip_unicode():
     tokenizer = BasicTokenizer()
     text = "Hello, world! 日本語 and 😀"
     assert tokenizer.decode(tokenizer.encode(text)) == text
+
+
+def test_empty_string_round_trip():
+    assert BasicTokenizer().decode(BasicTokenizer().encode("")) == ""
+    assert RegexTokenizer().decode(RegexTokenizer().encode("")) == ""
 
 
 def test_training_matches_the_canonical_toy_example():
@@ -64,6 +70,7 @@ def test_save_and_load_rebuild_the_same_model(tmp_path):
     model = json.loads(path.read_text(encoding="utf-8"))
     assert model == {"merges": [list(pair) for pair in tokenizer.merges]}
     assert "version" not in model
+    assert "format_version" not in model
     assert "type" not in model
 
     restored = BasicTokenizer.load(path)
@@ -80,6 +87,25 @@ def test_base_class_loading_requires_a_concrete_tokenizer(tmp_path):
         Tokenizer.load(path)
 
 
+def test_loading_rejects_duplicate_merge_pairs(tmp_path):
+    path = tmp_path / "duplicate.json"
+    path.write_text(
+        '{"merges": [[97, 98], [97, 98]]}',
+        encoding="utf-8",
+    )
+
+    with pytest.raises(ValueError, match="duplicate merge pair"):
+        BasicTokenizer.load(path)
+
+
+def test_loading_rejects_merge_forward_references(tmp_path):
+    path = tmp_path / "forward-reference.json"
+    path.write_text('{"merges": [[256, 97]]}', encoding="utf-8")
+
+    with pytest.raises(ValueError, match="references unavailable token IDs"):
+        BasicTokenizer.load(path)
+
+
 def test_regex_tokenizer_prevents_merges_across_word_boundaries(tmp_path):
     pytest.importorskip("regex")
     tokenizer = RegexTokenizer()
@@ -94,6 +120,37 @@ def test_regex_tokenizer_prevents_merges_across_word_boundaries(tmp_path):
     tokenizer.save(path)
     restored = RegexTokenizer.load(path)
     assert restored.pattern == GPT4_PATTERN
+
+
+def test_regex_tokenizer_preserves_text_unmatched_by_a_custom_pattern():
+    tokenizer = RegexTokenizer(pattern=r"\d+")
+    text = "Pigeon 123, hello!"
+
+    assert tokenizer._pre_tokenize(text) == ["Pigeon ", "123", ", hello!"]
+    assert tokenizer.decode(tokenizer.encode(text)) == text
+
+
+def test_regex_tokenizer_uses_full_matches_when_pattern_has_capturing_groups():
+    tokenizer = RegexTokenizer(pattern=r"(\d+)")
+    text = "Pigeon 123, hello!"
+
+    assert tokenizer._pre_tokenize(text) == ["Pigeon ", "123", ", hello!"]
+    assert tokenizer.decode(tokenizer.encode(text)) == text
+
+
+def test_dataset_paths_are_resolved_from_the_config_file_not_the_cwd(tmp_path, monkeypatch):
+    config_directory = tmp_path / "configuration"
+    config_directory.mkdir()
+    dataset = config_directory / "corpus.txt"
+    dataset.write_text("pigeon", encoding="utf-8")
+    config_path = config_directory / "model.yaml"
+    working_directory = tmp_path / "unrelated"
+    working_directory.mkdir()
+
+    monkeypatch.chdir(working_directory)
+    paths = dataset_paths({"datasets": ["corpus.txt"]}, config_path)
+
+    assert paths == [dataset]
 
 
 def test_gpt4_pattern_is_the_cl100k_pattern():

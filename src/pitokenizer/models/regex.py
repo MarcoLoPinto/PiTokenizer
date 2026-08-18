@@ -54,7 +54,7 @@ class RegexTokenizer(BytePairTokenizer):
         self._pattern = regex.compile(pattern)
 
     def _pre_tokenize(self, text: str) -> List[str]:
-        """Split text into the independent BPE inputs.
+        """Split text into independent BPE inputs without losing unmatched text.
 
         Parameters
         ----------
@@ -64,9 +64,22 @@ class RegexTokenizer(BytePairTokenizer):
         Returns
         -------
         list of str
-            Regex matches in input order.
+            Regex matches and unmatched spans in input order. Unmatched spans
+            become their own pieces so ``decode(encode(text))`` remains equal to
+            ``text`` even when a custom pattern does not cover every character.
         """
-        return self._pattern.findall(text)
+        pieces: List[str] = []
+        position = 0
+        for match in self._pattern.finditer(text):
+            if match.start() > position:
+                # Preserve the gap that the custom pattern did not match.
+                pieces.append(text[position:match.start()])
+            if match.group():
+                pieces.append(match.group())
+            position = match.end()
+        if position < len(text):
+            pieces.append(text[position:])
+        return pieces
 
     @staticmethod
     def _count_pairs(chunks: Sequence[Sequence[int]]) -> Counter[Pair]:
