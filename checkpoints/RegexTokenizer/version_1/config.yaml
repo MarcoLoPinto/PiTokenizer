@@ -1,0 +1,10 @@
+model:
+  name: RegexTokenizer
+  kwargs:
+    pattern: GPT4_PATTERN
+
+training:
+  vocab_size: 8192
+
+datasets:
+  - wikipedia_pigeons.txt
