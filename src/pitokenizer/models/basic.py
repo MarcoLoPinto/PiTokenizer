@@ -12,9 +12,40 @@ from .bpe import BytePairTokenizer, Pair
 
 
 class BasicTokenizer(BytePairTokenizer):
-    """BPE over the entire UTF-8 byte stream, without pre-tokenisation."""
+    """Train byte-level BPE over one complete UTF-8 byte stream.
+
+    No regex or whitespace pre-tokenisation is performed. Consequently, a
+    learned merge may include a space or span adjacent words. This makes the
+    class a compact reference implementation of the BPE algorithm.
+
+    Notes
+    -----
+    Training starts with token IDs 0 through 255, one for every byte value.
+    New IDs are assigned in merge-learning order, beginning at 256.
+    """
 
     def train(self, text: str, vocab_size: int) -> None:
+        """Learn BPE merge rules from text.
+
+        Parameters
+        ----------
+        text : str
+            Training corpus. It is encoded as UTF-8 before pair statistics are
+            collected.
+        vocab_size : int
+            Requested total vocabulary size, including the 256 initial byte
+            tokens.
+
+        Raises
+        ------
+        ValueError
+            If ``vocab_size`` is smaller than 256.
+
+        Notes
+        -----
+        If the corpus no longer contains an adjacent pair before the requested
+        size is reached, training stops and retains the largest valid model.
+        """
         if vocab_size < 256:
             raise ValueError("vocab_size must be at least 256")
 
@@ -51,4 +82,16 @@ class BasicTokenizer(BytePairTokenizer):
         self.vocab = vocab
 
     def encode(self, text: str) -> List[int]:
+        """Encode text using the learned BPE merge priority.
+
+        Parameters
+        ----------
+        text : str
+            Text to encode as UTF-8 bytes.
+
+        Returns
+        -------
+        list of int
+            Token IDs after all applicable merges have been applied.
+        """
         return self._encode_ids(list(text.encode("utf-8")))
