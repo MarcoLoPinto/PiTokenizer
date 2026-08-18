@@ -9,11 +9,13 @@ import shutil
 from typing import Any, Dict, List, Mapping
 
 from pitokenizer import AVAILABLE_MODELS, PATTERN_CONSTANTS, Tokenizer
-from pitokenizer.gpt4 import GPT4Tokenizer
+from pitokenizer.models.gpt4 import GPT4Tokenizer
 
 
-PROJECT_ROOT = Path(__file__).resolve().parent
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
 VERSION_PATTERN = re.compile(r"version_(\d+)$")
+
+
 def load_yaml_config(path: Path) -> Dict[str, Any]:
     """Read and validate a YAML configuration file."""
     try:

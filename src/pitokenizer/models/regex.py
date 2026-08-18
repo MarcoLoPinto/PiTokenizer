@@ -1,4 +1,4 @@
-"""Regex pre-tokenisation for byte-level BPE.
+"""Regex pre-tokenisation for byte-level BPE models.
 
 The regex divides text into GPT-style pieces before BPE runs. This prevents a
 merge from spanning a word, number, punctuation, or whitespace boundary.

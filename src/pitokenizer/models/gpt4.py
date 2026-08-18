@@ -1,4 +1,4 @@
-"""A fixed GPT-4-compatible tokenizer backed by tiktoken's cl100k_base.
+"""A fixed GPT-4-compatible tokenizer model backed by tiktoken's cl100k_base.
 
 Unlike the trainable tokenizers, this class reuses the published GPT-4 merge
 ranks. It also preserves special token assignments when a model is saved.

@@ -1,4 +1,4 @@
-"""The smallest useful byte-level BPE tokenizer.
+"""The smallest useful byte-level BPE tokenizer model.
 
 This educational baseline applies BPE to the complete UTF-8 byte stream. It
 intentionally has no pre-tokenisation, so merges may cross word boundaries.

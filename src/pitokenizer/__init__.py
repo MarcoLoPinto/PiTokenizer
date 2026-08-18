@@ -1,10 +1,10 @@
 """PiTokenizer: small, from-scratch tokenizer implementations."""
 
-from .basic import BasicTokenizer
-from .bpe import BytePairTokenizer
-from .gpt4 import GPT4Tokenizer
-from .regex import CL100K_PATTERN, GPT2_PATTERN, GPT4_PATTERN, RegexTokenizer
-from .tokenizer import Tokenizer
+from .models.basic import BasicTokenizer
+from .models.bpe import BytePairTokenizer
+from .models.gpt4 import GPT4Tokenizer
+from .models.regex import CL100K_PATTERN, GPT2_PATTERN, GPT4_PATTERN, RegexTokenizer
+from .models.tokenizer import Tokenizer
 
 # Central registry used by configuration-driven model loading.
 AVAILABLE_MODELS = {

@@ -1,4 +1,4 @@
-"""Common persistence and interface rules shared by every tokenizer.
+"""Common persistence and interface rules shared by tokenizer models.
 
 The base class deliberately keeps no tokenizer identifier in saved files. The
 concrete class selected by the caller defines how its own model data is read.

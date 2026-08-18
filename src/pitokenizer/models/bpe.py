@@ -1,4 +1,4 @@
-"""Shared byte-level BPE machinery.
+"""Shared byte-level BPE machinery for tokenizer models.
 
 All 256 byte values form the initial vocabulary, which guarantees lossless
 UTF-8 handling. Subclasses choose how text is split before these operations.

@@ -1,4 +1,4 @@
-"""Load a saved checkpoint and provide an interactive tokenizer prompt."""
+"""CLI for loading a saved checkpoint and prompting for tokenizer input."""
 
 from __future__ import annotations
 
