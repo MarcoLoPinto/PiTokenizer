@@ -3,6 +3,10 @@
 ######################
 
 checkpoints/*
+!checkpoints/RegexTokenizer/
+checkpoints/RegexTokenizer/*
+!checkpoints/RegexTokenizer/version_1/
+!checkpoints/RegexTokenizer/version_1/*
 
 ######################
 #  Python Gitignore  #
