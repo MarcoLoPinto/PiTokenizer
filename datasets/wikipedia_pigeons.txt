@@ -1,0 +1,475 @@
+Source: Wikipedia contributors, “Domestic pigeon”.
+https://en.wikipedia.org/wiki/Domestic_pigeon
+Retrieved: 2026-08-17
+License: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
+Changes: copied as plain text for tokenizer training.
+
+---
+
+WikipediaThe Free Encyclopedia
+Search Wikipedia
+Search
+Donate
+Create account
+Log in
+Contents hide
+(Top)
+History of domestication
+Genetics
+
+Markings
+Crest
+Foot feathering
+Crop inflation
+Hybridisation
+Life history
+
+Reproduction
+Life stages
+Pigeon related illness
+Uses
+
+For food
+Homing pigeons
+Display
+Flying/sporting
+Exhibition breeds
+Experimentation
+Pets
+Other relation to humans
+
+Illegal predator killing
+Feral pigeons
+Notes
+References
+External links
+Domestic pigeon
+
+Article
+Talk
+Read
+Edit
+View history
+
+Appearance hide
+Text
+
+Small
+
+Standard
+
+Large
+Width
+
+Standard
+
+Wide
+Color
+
+Automatic
+
+Light
+
+Dark
+From Wikipedia, the free encyclopedia
+Domestic pigeon
+
+A selection of domestic pigeon breeds and colors, the result of centuries of selective breeding[a]
+Conservation status
+Domesticated
+Scientific classificationEdit this classification
+Kingdom:	Animalia
+Phylum:	Chordata
+Class:	Aves
+Order:	Columbiformes
+Family:	Columbidae
+Genus:	Columba
+Species:	C. livia
+Subspecies:	C. l. domestica
+Trinomial name
+Columba livia domestica
+Gmelin, 1789[1]
+Synonyms
+Columba domestica
+Columba livia rustica
+The domestic pigeon (Columba livia "domestica" or Columba livia forma domestica)[2] is a domesticated bird derived from the rock dove (Columba livia), of which it is also a subspecies. Although often termed a "subspecies", the domesticated pigeon does not constitute an accepted zoological subspecies of the rock dove,[1] but a collection of over 350 breeds.[3] The rock dove is among the world's first birds to be domesticated; Mesopotamian cuneiform tablets mention the domestication of pigeons more than 5,000 years ago, as do Egyptian hieroglyphs.
+
+Pigeons have held historical importance to humans as food, pets, symbolic animals, and messengers. Due to their homing ability, pigeons have been used to deliver messages, including war pigeons during the two world wars. City pigeons, which are feral birds, are generally seen as pests, mainly due to their droppings and a reputation for spreading disease.
+
+History of domestication
+
+Emperor Honorius is a historically prominent individual who kept pigeons as pets.
+Which subspecies of C. livia was the progenitor of domestics, exactly when, how many times, where and how they were domesticated, and how they spread, remains poorly known; despite the long history of pigeons, little is known about the specifics of their initial domestication. Genetically, domesticated pigeons are closest to a cluster of origins of rock dove in the Middle East, particularly in the Syria – Jordan – Iraq – Arabian Peninsula region but also eastern Sudan,[3] thus encompassing all or parts of the ranges of C. l. gaddi, C. l. palaestinae, and C. l. butleri.[3][1]
+
+Their fragile bones and similarity to wild birds make the fossil record a poor tool for their study. Thus most of what is known comes from written accounts, which almost certainly do not cover the first stages of domestication.[4][5][6]
+
+
+Dovecote at Nymans Gardens, West Sussex, England
+Pigeons were most likely domesticated at least 2000–5000 years ago, and may have been domesticated earlier as a food source.[7] Some research suggests that domestication occurred as early as 10,000 years ago.[8][9] The earliest recorded mention of pigeons comes from Mesopotamia some 5,000 years ago.[10] Pigeon Valley in Cappadocia has rock formations that were carved into ancient dovecotes. Ancient Egyptians kept them.[11] Akbar the Great traveled with a coterie of thousands of pigeons.[12][13][14]
+
+Because domestic and feral pigeons have extensively interbred with wild rock doves, genetically pure wild-type rock doves are now rare and endangered, confined to remote regions such as the oceanic fringes of the species' natural range, in particular the Outer Hebrides off western Scotland.[15][16][17] This frequent admixture further muddies the true origins of pigeons.[5][6]
+
+The domestic pigeon was brought to the Americas by European colonists as an easy source of food and as messengers. Some sources state the species was first introduced to North America in 1606 at Port Royal, Nova Scotia,[18] although other sources cite Plymouth and Jamestown settlements in the early 17th century as the first place for species introduction in North America.[19]
+
+Around the 18th century, European interest in fancy pigeons began, and breeders there greatly expanded the variety of pigeons, importing birds from the Middle East and South Asia and mixing different breeds to create new ones.[5][9] Among these European fanciers was Charles Darwin, who was famously requested to write a book on pigeons during the process of writing On the Origin of Species. His own experiences with pigeon fancying would ultimately lead to another book; The Variation of Animals and Plants Under Domestication.[20][12]
+
+Genetics
+A pigeon with A pigeon with ruffled, upright feathers on the back of the head and neck.
+A Spread Ash Pomeranian show crest pigeon, showing one of the forms of feather crest that pigeons may possess
+From a genetic perspective, there are two loose ancestral clades of pigeons, but there is striking genetic homogeneity due to frequent interbreeding and human directed cross-breeding; pigeon fanciers often do not enforce breed standards, unlike with dogs. The first ancestral clade contains pigeons with exaggerated crops, tails, and manes; the second contains tumblers (the most diverse group), homing pigeons, owl pigeons, and those with exaggerated wattles.[5] Over the millennia of human interaction with pigeons, a multitude of pigeon breeds have been created, which differ in either plumage or body structure.[citation needed]
+
+Some varieties of domestic pigeon have modified feathers called "fat quills". These feathers contain yellow, oil-like fat that derives from the same cells as powder down. This is used while preening and helps reduce bacterial degradation of feathers by feather bacilli.[21]
+
+Markings
+A "wild-type" pigeon is closest in markings to the rock dove, which possesses a grading, slate-grey head and body with a green-purple iridescent neck, and ash-grey wings and tail with dark, often black, barring.[22] They also differ structurally, with a thicker bill, a larger cere at the base of the bill compared to wild birds, a more flattened (less rounded) head profile, and a paler eye-ring.[16] Due to millennia of selective breeding, including crossing with other Columba species, domestic pigeons possess major variations in plumage; often two birds from the same clutch may be of different colour. The domestic pigeon possesses 3 main colours; the wild-type blue, brown, and ash-red. This variation in colour is linked to the parent's sex chromosomes; as animals with the ZW chromosome system, cockbirds possess the colour genes from both parents, while hens only inherit their father's colour and patterns. Additionally, there is some dominance observed; ash-red is dominant over the other two base colours, while blue is dominant over brown.[23] Recessive red is a unique colour which is inherited differently from the three base ones; it is distinct from ash-red in that the bird always is a uniform chestnut colour.[24]
+
+Another important aspect of pigeon markings is the pattern on the wing coverts, which exists in four variants; wild-type bar, check, T-check, and barless. T-check is the most dominant pattern, followed by check, barred, and the least dominant barless pattern.[25] Additionally, the modifiers spread and dilute affects the expression of the colour; the spread gene spreads the colour of the bird's tail to its entire body, while dilute lightens the bird's overall colour, as if were a dye being diluted to reduce its saturation.[26][27]
+
+There are many other markings present in pigeons; among them are milky, almond, opal, dirty, indigo, grizzle, and various "stencil" and "bronzing" factors; all of which further modify the base markings of a bird. Conversely, pigeons possess multiple genetic pathways that can produce a completely white bird.[28]
+
+Crest
+A recessive allele in the EphB2 gene controls the crested-feather mutation in domestic pigeons.[29] Pigeons with two copies of the crest allele grow neck and head feathers that point towards the top of the head, unlike other feathers that point towards the tail.[30] Additionally, bacterial growth analysis suggests that crested pigeons have reduced bacterial-killing abilities due to reduced kinase activity.[31] Pigeons may express the crest gene differently depending on its genetic heritage; two squabs from the same brood descending from the same pair may have one bird develop a peak crest, and the other a wild-type smooth head.[32]
+
+Foot feathering
+A pigeon with feathers growing on the feet instead of scales.
+White Cropper pigeon with feathered feet
+Pigeons with feathers growing on their feet have differently expressed genes: a hindlimb-development gene called PITX1 is less active than normal, and a forelimb-development gene called Tbx5 that normally develops the wings is also active in the feet, causing both feather growth and larger leg bones. The cause of these changes is a change in the regulatory sequences of DNA that control the expression of the Pitx1 and the Tbx5 genes, rather than mutations in the genes themselves.[33][34] Pigeon foot feathering has been studied as a potential model for the transition from feathered to "scaled" feet in non-avian dinosaurs.[35] It is thought that large feathers, especially flight feathers on the feet were lost in all living birds as it was too inefficient in powered flight. Domestic pigeons quickly overheated when flying with their scaled feet covered, and it is thought that the loss of microraptorian-like hind-wings allowed for more efficient powered flight.[36]
+
+Crop inflation
+Pouter- or cropper breeds exhibit the trait of inflating their crops with air, producing their signature "globe". This trait is inheritable and partially dominant, though cockbirds tend to exhibit this trait more than females.[28] Some cropper breeds may have issues with passing food and water through their crops, though this problem isn't universal and can be treated by owners.[37]
+
+Hybridisation
+There is strong evidence that some divergences in appearance between the wild-type rock dove and domestic pigeons, such as checkered wing patterns and red/brown colour, may be due to introgression by cross-breeding with the speckled pigeon C. guinea.[38][39][40][41] However, there is little evidence of this in their genetic structure, with C. guinea instead being sister to the common wood pigeon C. palumbus.[3]
+
+Domestic pigeons may be crossed with the barbary dove (Streptopelia risoria) to create offspring, but the offspring are not fertile.[42][43]
+
+Life history
+See also: Pigeon keeping
+Reproduction
+
+Two very young pigeon chicks, perhaps a few hours old. Domestic pigeons hatch out blind, immobile, and covered in down.
+Domestic pigeons reproduce exactly as wild rock doves do;[22] settling in a safe, cool nook, building a flimsy stick nest, and laying two eggs that are incubated for a little longer than two weeks, usually 17 to 19 days.[4] A pigeon keeper may select breeding partners, but in an open loft the birds choose their own mate. Both sexes of pigeons are extremely protective of their eggs and young, and often defend them vigorously from nest predators,[4] including their human keepers; they are defensive of their personal space, and see their nests as extensions of said space.[44]
+
+Baby pigeons are called squabs,[4] squeakers,[45][46] or peepers, the latter two being a reference to their cry when begging for food.[47] Initially, the squabs are fed by their parents with crop milk, which contains high amounts of protein and fat,[48] some breeds are bred into such debilitating forms that they may require human intervention to produce squabs successfully, which necessitates the owner to raise them themselves by feeding the chicks with special squab formula (similar to infant formula)[49] or by fostering them under another pair of pigeons. This may also be necessary if the parents are unable or unwilling to raise the squab.[50][20] When fed by their parents, the squabs develop much faster than other species of poultry, such as quail,[48] and fostering in human care may be more effective than using a surrogate pair of pigeons.[50]
+
+As the chicks grow and become more mobile and alert, their parents transition them to their adult food of seeds and grains. A pigeon hen may start a new clutch before her previous one has fledged, in which case her mate raises the previous clutch on his own.[51][22] Pigeons reach their adult size around four weeks of age,[48][52][51] and after fledging the chicks will follow their parents to the communal feeding ground; areas with plentiful forage that a pigeon flock uses. Here the chicks gain their independence and integrate into pigeon society.[22]
+
+Domestic pigeons were selected to breed faster than their wild ancestors;[53] a lack of a breeding season,[4] abundance of food in a domestic setting, and swift maturity (squabs fledge in about a month, and often have already bred and fledged a few clutches of their own before reaching a year in age) leads to swift population growth of pigeons in the flock. This fact, and the number of pigeons lost in races or intentionally released, leads to exponential growth in free-living, feral populations.[citation needed]
+
+Life stages
+Feral pigeon nest with two eggs
+Feral pigeon nest with two eggs
+ 
+Nestlings, one day
+Nestlings, one day
+ 
+Nestling, five days
+Nestling, five days
+ 
+Nestlings, about 10 days
+Nestlings, about 10 days
+ 
+18 days old in its nest and one egg
+18 days old
+ 
+Young bird, 22 days
+Young bird, 22 days
+ 
+Feral pigeons in courtship
+Feral pigeons in courtship
+Pigeon related illness
+Main article: Feral pigeon § Pathogens
+Pigeon breeders sometimes suffer from an ailment known as bird fancier's lung or pigeon lung. A form of hypersensitivity pneumonitis, pigeon lung is caused by the inhalation of the avian proteins found in feathers and dung. It can sometimes be combated by wearing a filtered mask.[54] Other pigeon related pathogens causing lung disease are Chlamydophila psittaci (which causes psittacosis), Histoplasma capsulatum (which causes histoplasmosis) and Cryptococcus neoformans, which causes cryptococcosis. Avian paramyxovirus is virus carried by pigeons causing lesions and swelling in unvaccinated birds.[55][56]
+
+Avian mites may infest domestic pigeons and cause gamasoidosis in humans. There are several methods to treat birds infested with mites or louse, including external insecticides and oral medicine.[57]
+
+Uses
+For food
+
+Two squabs in their nest. Sharing this trait with many columbids, a domestic pigeon hen has a maximum clutch size of two.
+Main article: Squab
+Pigeons bred for meat are generally referred to as a meat or utility breed. The term "squab" can either refer to young birds or the meat harvested from them; these birds grow to a very large size in the nest before they fledge and are able to fly; during this stage of development they are often fattier and seen as being tastier than the fully-flighted adults. Squabs during this stage are valued as food; in Neolithic and early agricultural communities they were an easy and reliable source of protein, the birds requiring only reliable sources of grains and water (which they independently foraged for) to enter breeding condition, and the rock formations they nested in would have made for attractive dwellings for early humans.
+
+Pigeon meat, both from squabs and from adult birds, are still a source of protein for people worldwide.[48] Breeds of pigeons harvested for their meat during adulthood are collectively known as utility pigeons. For commercial meat production a breed of large white pigeon, the King pigeon, has been developed by selective breeding.[58]
+
+Homing pigeons
+Main articles: Homing pigeon and Pigeon racing
+
+Pigeon in flight. Coupled with their honed sense of direction, the flight speed of a homing pigeon made them a reliable, sometimes the only, method of sending small objects over long distances.
+Homing pigeons are a specialised type of pigeon bred for navigation and speed. Originally developed through selective breeding to carry messages,[59] most notably during warfare,[4] members of this variety of pigeon are still being used in the sport of pigeon racing and the ceremony of releasing white doves at social events.[60]
+
+These breeds of domestic pigeons, especially when trained are able to return to the home loft if released at a location that they have never visited before and that may be up to 1,000 km (620 mi) away. This ability of a pigeon to return home from a foreign location necessitates two sorts of information. The first, called "map sense" is their geographic location. The second, "compass sense" is the bearing they need to fly from their new location to reach their home. Both of these senses, however, respond to a number of different cues in different situations. The most popular conception of how pigeons are able to do this is that they are able to sense the Earth's magnetic field[b] with tiny magnetic tissues in their head (magnetoception), though the exact location of the magnetoception organ is still being researched;[67][68] Areas of the pigeon brain that respond with increased activity to magnetic fields are the posterior vestibular nuclei, dorsal thalamus, hippocampus, and visual hyperpallium.[69][70] Wherever the organ is, pigeons can detect magnetic anomalies as weak as 1.86 gauss.[71]
+
+Another theory is that pigeons have compass sense, which uses the position of the sun, along with an internal clock, to work out direction. However, studies have shown that if magnetic disruption or clock changes disrupt these senses, the pigeon can still manage to get home. The variability in the effects of manipulations to these sense of the pigeons indicates that there is more than one cue on which navigation is based and that map sense appears to rely on a comparison of available cues.[72]
+
+Other potential cues used include
+
+The use of a sun compass[73]
+Nocturnal navigation by stars[74]
+Visual landmark map[75][76]
+Navigation by infrasound map[77]
+Polarised light compass[78]
+Olfactory stimuli[79][80] (see also olfactory navigation)
+Display
+Flying/sporting
+Main article: Flying/Sporting pigeons
+Four birds; domestic pigeons with light wing primaries and dark body plumage, are flying towards the top right of the photo. Each are in a different part of their flight stroke.
+Pigeons of different plumage in flight
+Pigeons are also kept by enthusiasts for the enjoyment of Flying/Sporting competitions. Unlike racers, these birds are not released far from their home lofts; breeds such as tipplers are bred for the ability to hover above the loft for hours at a time. Their ability to hover for a long time shows the ability of the keeper to select for endurance.[81]
+
+Wild pigeons naturally flip or somersault when evading aerial predators such as large-bodied falcons; they are naturally selected by the extreme speeds that some stooping falcons reach (over 320 km/h (200 mph)),[82] being able to dodge this attack at the last second. Tumbler and roller pigeons are bred to enhance this ability;[28][83] some birds have been recorded to be able to somersault on the ground and land on its feet, and some breeds are even deliberately bred to a point where the rolling ability is debilitative, being wholly unable to fly due to it.[28][83]
+
+A breed called the zurito, bred for its speed, may be used in live pigeon shooting.[84][85]
+
+Exhibition breeds
+icon
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (March 2025) (Learn how and when to remove this message)
+Main article: Fancy pigeon
+Pigeon fanciers developed many exotic forms of pigeon through selective breeding. Perhaps[according to whom?] the simplest form of display pigeon are those of white plumage, either truly albino or with white-feathers; these white birds were seen as holy animals or heralds of peace and are well represented in both ancient and contemporary culture.
+
+As pigeonkeepers accrued more experience, they started selecting for increasingly more unusual features in their birds; features such as unusual plumage patterns and colours, various crests, foot feathering, altered stance and proportion, or unusual behaviour, are well represented in extant pigeon breeds. These birds are generally classed as fancy pigeons.
+
+Pigeon shows are conventions where pigeon fanciers and breeders meet to compete and trade their fancy pigeons. The various pigeon breeds dubbed "American show" were developed specifically by pigeon show frequenters pursuing a certain show standard determined by the National Pigeon Association. Fanciers compete against each other at exhibitions or shows and the different forms or breeds are judged to a standard to decide who has the best bird.
+
+There are many fancy or ornamental breeds of pigeons; among them are the English carrier pigeons, a variety of pigeon with prominent wattles and an almost vertical stance, the Duchess breed, which has as a prominent characteristic feet that are completely covered by a sort of fan of feathers, the fantails with a fan of tail feathers like a peacock, and the Voorburg Shield Cropper which are bred to inflate their crops in an effort to woo their handlers.[clarification needed]
+
+Variety of fancy pigeons
+Archangel showing its extensive iridescence
+Archangel showing its extensive iridescence
+ 
+Old Dutch Capuchine
+Old Dutch Capuchine
+ 
+Lucerne Gold Collar
+Lucerne Gold Collar
+ 
+Oriental Frill
+Oriental Frill
+ 
+Old German Owl
+Old German Owl
+ 
+Old Dutch Owl
+Old Dutch Owl
+ 
+English Owl
+English Owl
+ 
+Chinese Owl
+Chinese Owl
+ 
+Valencian Figurita, one of the smallest breeds of pigeon
+Valencian Figurita, one of the smallest breeds of pigeon
+ 
+Portuguese tumbler, another small breed of pigeon
+Portuguese tumbler, another small breed of pigeon
+ 
+Old Dutch Tumbler
+Old Dutch Tumbler
+ 
+The Giant Runt, one of the largest pigeon breeds
+The Giant Runt, one of the largest pigeon breeds
+ 
+Ghent Cropper
+Ghent Cropper
+ 
+Holle Cropper
+Holle Cropper
+ 
+Silesian Cropper
+Silesian Cropper
+ 
+Voorburg Shield Cropper
+Voorburg Shield Cropper
+ 
+Norwich Cropper
+Norwich Cropper
+ 
+Pygmy pouter
+Pygmy pouter
+ 
+American Show Racer
+American Show Racer
+ 
+Dutch Beauty Homer
+Dutch Beauty Homer
+ 
+Garden or English Fantail
+Garden or English Fantail
+ 
+American Fantail
+American Fantail
+ 
+Indian Fantail
+Indian Fantail
+ 
+Danzig Highflyer
+Danzig Highflyer
+ 
+Oriental Roller
+Oriental Roller
+ 
+Birmingham Roller
+Birmingham Roller
+ 
+Danish Tumbler
+Danish Tumbler
+ 
+Zagreb Tumbler
+Zagreb Tumbler
+Experimentation
+Main article: Pigeon intelligence
+Domestic pigeons are model organisms commonly used in laboratory experiments relating to biology; often to test medicines and chemical substances, or in cognitive sciences. Research in pigeons is widespread, encompassing shape and texture perception, exemplar and prototype memory, category-based and associative concepts.[citation needed]
+
+Pigeons have been trained to distinguish between cubist and impressionist paintings.[86]
+
+In Project Sea Hunt, a US Coast Guard search and rescue project in the 1970s and 1980s, pigeons were shown to be more effective than humans in spotting shipwreck victims at sea.[87]
+
+Pigeons are able to acquire orthographic processing skills,[88] which form part of the ability to read, and basic numerical skills equivalent to those shown in primates.[89]
+
+Pigeons have been used as medical imaging data sorters. They have been successfully trained under research conditions to examine data on a screen for the purposes of detecting breast cancer. They appear to use their innate visual navigation skills to do so.[90]
+
+Pets
+Pigeons are sometimes kept as indoor pets, with the practice's popularity growing over recent years.[91] These pet pigeons may be outfitted with "pigeon pants" (a diaper-like garment) to maintain cleanliness,[92] and some birds may be "potty trained".[93]
+
+Other relation to humans
+Domestic pigeons, especially the leucistic and albinistic specimens commonly referred to as "white doves", have had a long history in symbolism.[94]
+
+Illegal predator killing
+In the United States, some pigeon keepers illegally trap and kill hawks and falcons to protect their pigeons.[95] In the West Midlands region of the United Kingdom pigeon fanciers have been blamed for a trap campaign to kill peregrine falcons. Eight illegal spring-loaded traps were found close to peregrine nests and at least one of the birds died. The steel traps are thought to have been set as part of a "concerted campaign" to kill as many of the birds as possible in the West Midlands.[96]
+
+Feral pigeons
+Main article: Feral pigeon
+
+A large flock of feral pigeons.
+Many domestic birds have escaped or been released over the years, and have given rise to the feral pigeon.[9] As a result of inherited genetic variation, feral pigeons demonstrate a wide variety of plumage patterns and colours, ranging from closely resembling wild rock doves, to patterns directly inherited from their domestic ancestors. Over time a population tends to homogenise and adopt a plumage that suits their environment, such as camouflaging against black asphalt, and birds that have distinct plumage patterns from flockmates are more often targeted by predators.[97][98] The scarcity of the pure wild species is partly due to interbreeding with feral birds. Domestic pigeons can often be distinguished from feral pigeons because they usually have a numbered metal or plastic ring around one, or sometimes both, legs which shows that they are registered to an owner.[99]
+
+Feral pigeons bear close genetic resemblance to homing pigeons, supporting the idea that most feral pigeons trace their origins to homing pigeons who did not find their way home, or were otherwise sired by homing pigeons.[5][9] The large numbers of birds released in pigeon races and loft owners breaking down their lofts and leaving the pigeons to fend for themselves may be a significant factor in the persistence of urban pigeons. Ferals started to become maligned in the 1930s-40s, culminating when New York City parks commissioner Thomas coined the term "rats with wings" in June 1966.[100][94]
+
+Notes
+ Breeds depicted are:
+Middle-billed TumblerGerman DrumAnatolian TurbitRomanCoburg LarkAntwerp CarrierStrasserLynxNunMalteseCarrierLong-billed TumblerFantailEnglish Pouter
+ [61][62][63][64][65][66]
+References
+ "Pigeons – IOC World Bird List". IOC World Bird List – Version 14.2. 20 February 2025. Retrieved 16 August 2025.
+ Krautwald-Junghanns, Maria-Elisabeth; Zebisch, Ralph; Schmidt, Volker (2009). "Relevance and Treatment of Coccidiosis in Domestic Pigeons (Columba livia forma domestica) with Particular Emphasis on Toltrazuril". Journal of Avian Medicine and Surgery. 23 (1). Association of Avian Veterinarians: 1–5. doi:10.1647/2007-049R.1. JSTOR 27670700. PMID 19530399. S2CID 31939394.
+ Hernández-Alonso, Germán; Ramos-Madrigal, Jazmín; van Grouw, Hein; Ciucani, Marta Maria; Cavill, Emily Louisa; Sinding, Mikkel-Holger S; Gopalakrishnan, Shyam; Pacheco, George; Gilbert, M Thomas P (3 November 2023). "Redefining the Evolutionary History of the Rock Dove, Columba livia , Using Whole Genome Sequences" (PDF). Molecular Biology and Evolution. 40 (11) msad243. doi:10.1093/molbev/msad243. ISSN 0737-4038. PMC 10667084. PMID 37950889. Retrieved 16 August 2025.
+ Levi, Wendell (1977). The Pigeon. Sumter, S.C.: Levi Publishing Co, Inc. ISBN 978-0-85390-013-9.
+ Gilbert, M. Thomas P.; Shapiro, Michael D. (2014). "Pigeons: Domestication". Encyclopedia of Global Archaeology (PDF). pp. 5944–5948. doi:10.1007/978-1-4419-0465-2_2214. ISBN 978-1-4419-0426-3.
+ Hester, Jessica Leigh (29 November 2021). "The Case for Pigeon-Watching". atlasobscura.com. Atlas Obscura. Retrieved 30 November 2023.
+ Stringham, Sydney A.; Mulroy, Elisabeth E.; Xing, Jinchuan; Record, David; Guernsey, Michael W.; Aldenhoven, Jaclyn T.; Osborne, Edward J.; Shapiro, Michael D. (February 2012). "Divergence, Convergence, and the Ancestry of Feral Populations in the Domestic Rock Pigeon". Current Biology. 22 (4): 302–308. Bibcode:2012CBio...22..302S. doi:10.1016/j.cub.2011.12.045. PMC 3288640. PMID 22264611.
+ Blechman, Andrew (2007). Pigeons-The fascinating saga of the world's most revered and reviled bird. St Lucia, Queensland: University of Queensland Press. ISBN 978-0-7022-3641-9.
+ Shapiro, Michael D.; Domyan, Eric T. (2013). "Domestic pigeons". Current Biology. 23 (8): R302–R303. Bibcode:2013CBio...23.R302S. doi:10.1016/j.cub.2013.01.063. PMC 4854524. PMID 23618660.
+ "Secret World of Pigeons Timeline". cbc.ca. CBC. Retrieved 30 November 2023.
+ Parks, Shoshi (25 January 2023). "Did Ancient Egypt Have a Pigeon Problem?". atlasobscura.com. Atlas Obscura. Retrieved 30 November 2023.
+ Sims-Williams, Ursula. "blogs.bl.uk". Pigeon keeping: a popular Mughal pastime. British Library. Retrieved 17 March 2025.
+ Kabir, M. Ashraful (18 October 2023). "Known and Unknown Pigeons in Mughal History". Researchgate.net. Retrieved 18 October 2023.
+ "5 Animals the Mughal Emperor Akbar loved". theheritagelab.in. The Heritage Lab. 3 July 2020. Retrieved 30 November 2023.
+ Smith, William J.; Sendell-Price, Ashley T.; Fayet, Annette L.; Schweizer, Teia M.; Jezierski, Michał T.; van de Kerkhof, Charles; Sheldon, Ben C.; Ruegg, Kristen C.; Kelly, Steven; Turnbull, Lindsay A.; Clegg, Sonya M. (2022). "Limited domestic introgression in a final refuge of the wild pigeon". iScience. 25 (7) 104620. doi:10.1016/j.isci.2022.104620. PMC 9308148. PMID 35880028. Retrieved 16 August 2025.
+ Smith, William J. (2023). "Rapid assessment of the extent of feral introgression in British and Irish Rock Dove (Columba livia) populations". Ibis. 165 (4): 1432–1439. doi:10.1111/ibi.13213. ISSN 0019-1019.
+ Smith, William J.; Clegg, Sonya M. (2023). "Hybridisation and genomic diversity in British and Irish pigeons Columba livia" (PDF). European Journal of Wildlife Research. 69 (5) 94. Bibcode:2023EJWR...69...94S. doi:10.1007/s10344-023-01729-4. ISSN 1612-4642. Retrieved 16 August 2025.
+ White, Helen. "Rock Pigeons". www.diamonddove.info. Helen White. Retrieved 18 February 2008.[self-published source?]
+ "Rock Dove Facts - NatureMapping". naturemappingfoundation.org. Retrieved 30 June 2021.
+ Bodio, Stephen J. (15 July 2009). "Darwin's Other Bird—The Domestic Pigeon". allaboutbirds.org. The Cornell Lab of Ornithology. Retrieved 16 November 2023.
+ Peters, Anne; Klonczinski, Eva; Delhey, Kaspar (March 2010). "Fat quill secretion in pigeons: Could it function as a cosmetic?". Animal Biology. 60: 69–78. doi:10.1163/157075610X12610595764219.
+ Lowther, Peter E.; Johnston, Richard F. (2020). Billerman, Shawn M. (ed.). "Rock Dove Columba livia". birdsoftheworld.org. Birds of the World, Cornell Lab. doi:10.2173/bow.rocpig.01. Retrieved 11 March 2025.
+ "Color". learn.genetics.utah.edu. University of Utah. Retrieved 16 November 2023.
+ "Recessive Red". learn.genetics.utah.edu. University of Utah. Retrieved 16 November 2023.
+ "Pattern". learn.genetics.utah.edu. University of Utah. Retrieved 16 November 2023.
+ "Spread". learn.genetics.utah.edu. University of Utah. Retrieved 16 November 2023.
+ "Dilute". learn.genetics.utah.edu. University of Utah. Retrieved 16 November 2023.
+ "Inherited Characteristics Gallery". learn.genetics.utah.edu. University of Utah. Retrieved 11 March 2025.
+ "The Secret of the Pigeon's Crest". www.science.org. Retrieved 28 May 2023.
+ "Crest". learn.genetics.utah.edu. Retrieved 28 May 2023.
+ Vickrey, Anna I.; Domyan, Eric T.; Horvath, Martin P.; Shapiro, Michael D. (October 2015). "Convergent Evolution of Head Crests in Two Domesticated Columbids Is Associated with Different Missense Mutations in EphB2". Molecular Biology and Evolution. 32 (10): 2657–2664. doi:10.1093/molbev/msv140. ISSN 1537-1719. PMC 4683366. PMID 26104009.
+ "Crest". learn.genetics.utah.edu. University of Utah. Retrieved 30 November 2023.
+ "Foot Feathering". learn.genetics.utah.edu. Retrieved 28 May 2023.
+ "Pigeon foot feather genes identified | UNews". unews.utah.edu. Retrieved 28 May 2023.
+ "Pigeon foot feather genes identified: Study hints how scaly dinosaur legs could get birdlike feathers". phys.org. Retrieved 9 March 2025.
+ "Fancy pigeons and Unnatural Selection". chasmosaurs.com. Love in the Time of Chasmosaurs. 13 November 2018. Retrieved 9 March 2025.
+ van Benten, Nico. "Crop problems at our pigeons" (PDF). www.aviculture-europe.nl. Aviculture-Europe. Retrieved 11 March 2025.
+ Ottenburghs, Jente (12 December 2014). "Columbiformes". Avian Hybrids.[self-published source?]
+ Vickrey, Anna I; Bruders, Rebecca; Kronenberg, Zev; Mackey, Emma; Bohlender, Ryan J; Maclary, Emily T; Maynez, Raquel; Osborne, Edward J; Johnson, Kevin P; Huff, Chad D; Yandell, Mark; Shapiro, Michael D (17 July 2018). "Introgression of regulatory alleles and a missense coding mutation drive plumage pattern diversity in the rock pigeon". eLife. 7 e34803. Bibcode:2018eLife...734803V. doi:10.7554/eLife.34803. PMC 6050045. PMID 30014848.
+ Irwin, M. R.; Cole, L. J.; Gordon, C. D. (1936), "Immunogenetic studies of species and of species hybrids in pigeons, and the separation of species-specific characters in backcross generations", Journal of Experimental Zoology, 73 (2): 285–308, Bibcode:1936JEZ....73..285I, doi:10.1002/jez.1400730206
+ Miller, Wilmer J. (1953). "The Time of Appearance of Species-Specific Antigens of Columba guinea in the Embryos of Backcross Hybrids". Journal of Physiological Zoology. 26 (2): 124–131. doi:10.1086/physzool.26.2.30154509. S2CID 87693174.
+ "Known Dove/Pigeon Hybrids". www.exoticdove.com. Retrieved 28 May 2023.
+ Vickrey, Anna I.; Domyan, Eric T.; Horvath, Martin P.; Shapiro, Michael D. (2015). "Convergent Evolution of Head Crests in Two Domesticated Columbids Is Associated with Different Missense Mutations in EphB2". Molecular Biology and Evolution. pp. 2657–2664. doi:10.1093/molbev/msv140. PMC 4683366. PMID 26104009. Retrieved 28 May 2023.
+ Walkowiak, P. (18 February 2025). "Lofts as Shared Spaces: Examining Socio-Spatial Interactions Among Humans, King Pigeons, and Other Species". Biosemiotics. 18: 129–144. doi:10.1007/s12304-025-09596-z. Retrieved 11 March 2025.
+ White, Mary Gormandy. "Baby Animal Names: A Complete List of Common Terms". www.yourdictionary.com. LoveToKnow Media. Retrieved 11 March 2025.
+ "When does a Squeaker stop Squeaking!". www.pigeons.biz. Retrieved 11 March 2025.
+ Crome, Francis H.J. (1991). Forshaw, Joseph (ed.). Encyclopaedia of Animals: Birds. London: Merehurst Press. pp. 115–116. ISBN 978-1-85391-186-6.
+ Sales, J.; Janssens, G.P.J. (1 June 2003). "Nutrition of the domestic pigeon ( Columba livia domestica )". World's Poultry Science Journal. 59 (2): 221–232. doi:10.1079/WPS20030014. ISSN 0043-9339.
+ Winn, Diane; Finke, Mark. "Formula for Columbiform Hatchlings© (Crop Milk Substitute)" (PDF). Florida Wildlife Rehabilitators Association. Avian Haven. Retrieved 5 May 2025.
+ Abdel Fattah, Azhar F.; Roushdy, El-Shimaa M.; Tukur, Hammed A.; Saadeldin, Islam M.; Kishawy, Asmaa T. Y. (April 2019). "Comparing the Effect of Different Management and Rearing Systems on Pigeon Squab Welfare and Performance after the Loss of One or Both Parents". Animals. 9 (4): 165. doi:10.3390/ani9040165. PMC 6523572. PMID 31013998. Retrieved 24 April 2025.
+ Schiere, Hans; van der Hoek, Rein (2001). Livestock keeping in urban areas: a review of traditional technologies based on literature and field experiences. FAO animal production and health paper. Vol. 151. Food and Agriculture Organization. p. 29. ISBN 978-92-5-104575-6.
+ Canova, Jane (Spring 2005). "Monuments to the Birds: Dovecotes and Pigeon Eating in the Land of Fields". Gastronomica. 5 (2): 50–59. doi:10.1525/gfc.2005.5.2.50. JSTOR 10.1525/gfc.2005.5.2.50.
+ Skinner, B.F. (March 1986). "Some Thoughts About The Future". Journal of the Experimental Analysis of Behavior. 45 (2): 229–245. doi:10.1901/jeab.1986.45-229. PMC 1348231. PMID 3958668.
+ Boyd, Gavin; Din Ismail; Philip Lynch; Charles McSharry. "Process of Pigeon Fancier's Allergic Alveolitis.Current research activity into Pigeon Lung in Scotland: Epidemiological Studies". British Pigeon Fanciers Medical Research. Archived from the original (Web article) on 8 July 2008. Retrieved 22 January 2008.
+ Teske, L.; Ryll, M.; Rautenschlein, S (4 November 2013). "Epidemiological investigations on the role of clinically healthy racing pigeons as a reservoir for avian paramyxovirus-1 and avian influenza virus". Avian Pathology. 42 (6): 557–565. doi:10.1080/03079457.2013.852157. PMID 24188518.
+ Hamouda, Esraa E.; Eid, Amal A. M.; Gouda, Hagar F.; Dessouki, Amina A.; El-Deeb, Ayman H.; Daines, Rebecca; Iqbal, Munir; ElBakrey, Reham M. (9 October 2024). "Assessment of PPMV-1 Genotype VI Virulence in Pigeons and Chickens and Protective Effectiveness of Paramyxovirus Vaccines in Pigeons". Viruses. 16 (10). MDPI AG: 1585. doi:10.3390/v16101585. ISSN 1999-4915. PMC 11512342. PMID 39459921.
+ Vulpe, Cristina. "Pigeon Lice: Everything You Need To Know About Them". pigeonpedia.com. PigeonPedia. Retrieved 16 February 2025.
+ Kokoszyński, Dariusz; Stęczny, Kamil; Żochowska-Kujawska, Joanna; Sobczak, Małgorzata; Kotowicz, Marek; Saleh, Mohamed; Fik, Martin; Arpášová, Henrieta; Hrnčár, Cyril; Włodarczyk, Karol (30 July 2020). "Carcass Characteristics, Physicochemical Properties, and Texture and Microstructure of the Meat and Internal Organs of Carrier and King Pigeons". Animals. 10 (8): 1315. doi:10.3390/ani10081315. ISSN 2076-2615. PMC 7459732. PMID 32751657.
+ Travers, Scott. "A Biologist Reveals 3 'History-Changing' Flights Of The Homing Pigeon—The World's First 'International Messenger'". Forbes. Retrieved 11 March 2025.
+ "Release of White Doves for your wedding from Pangroove Elegant Events In Barbados". www.pangroove.com. Archived from the original on 16 August 2017. Retrieved 30 April 2017.
+ Von Middendorff, A. (1859). "Die Isepiptesen Rußlands". Mémoires de l'Académie Impériale des Sciences de St. Pétersbourg. Série VI. 8: 1–143.
+ Viguier, C. (1882). "Le sens de l'orientation et ses organes chez les animaux et chez l'homme". Revne Philosophique de la France et de l'Étranger. 14: 1–36. JSTOR 41071133.
+ Wiltschko, W.; Wiltschko, R. (1996). "Magnetic Orientation in Birds". Journal of Experimental Biology. 199 (Pt 1): 29–38. Bibcode:1996JExpB.199...29W. doi:10.1242/jeb.199.1.29. PMID 9317275.
+ Walcott, C. (1996). "Pigeon homing: observations, experiments and confusions". Journal of Experimental Biology. 199 (Pt 1): 21–27. Bibcode:1996JExpB.199...21W. doi:10.1242/jeb.199.1.21. PMID 9317262.
+ Keeton, W. T. (1971). "Magnets interfere with pigeon homing". PNAS. 68 (1): 102–106. Bibcode:1971PNAS...68..102K. doi:10.1073/pnas.68.1.102. PMC 391171. PMID 5276278.
+ Gould, J. L. (1984). "Magnetic field sensitivity in animals". Annual Review of Physiology. 46: 585–598. doi:10.1146/annurev.ph.46.030184.003101. PMID 6370118.
+ Lauwers, Mattias; Pichler, Paul; Edelman, Nathaniel Bernard; et al. (May 2013). "An Iron-Rich Organelle in the Cuticular Plate of Avian Hair Cells". Current Biology. 23 (10): 924–929. Bibcode:1996CBio....6.1213A. doi:10.1016/j.cub.2013.04.025. PMID 23623555. S2CID 9052155.
+ Nimpf, Simon; Malkemper, Erich Pascal; Lauwers, Mattias; et al. (15 November 2017). "Subcellular analysis of pigeon hair cells implicates vesicular trafficking in cuticulosome formation and maintenance". eLife. 6 e29959. doi:10.7554/elife.29959. PMC 5699870. PMID 29140244.
+ Wu, L.-Q.; Dickman, J. D. (2011). "Magnetoreception in an avian brain in part mediated by inner ear lagena". Current Biology. 21 (5): 418–23. Bibcode:2011CBio...21..418W. doi:10.1016/j.cub.2011.01.058. PMC 3062271. PMID 21353559.
+ Shao, Yong; Tian, Hang-Yu; Jing, Zhang; Kharrati-Koopaee, Hamed; Guo, Xing; Zhuang, Xiao-Lin; Li, Ming-Li; Nanaie, Hojat Asadollahpour; Tafti, Elahe Dehghani; Shojaei, Bahador; Namavar, Mohammad Reza; Sotoudeh, Narges; Ayoola, Adeola Oluwakemi; Li, Jia-Li; Liang, Bin; Esmailizadeh, Ali; Wang, Shu; Wu, Dong-Dong (September 2019). "Genomic and Phenotypic Analyses Reveal Mechanisms Underlying Homing Ability in Pigeon". Molecular Biology and Evolution. 37 (3): 134–148. doi:10.1093/molbev/msz208. PMID 31501895. Retrieved 11 March 2025.
+ Mora, C. V.; Davison, M.; Wild, J. M.; Walker, M. M. (2004). "Magnetoreception and its trigeminal mediation in the homing pigeon". Nature. 432 (7016): 508–511. Bibcode:2004Natur.432..508M. doi:10.1038/nature03077. PMID 15565156. S2CID 2485429.
+ Wiltschko, W.; Wiltschko, R. (2003). "Avian navigation: from historical to modern concepts". Animal Behaviour. 65 (2): 257–272. Bibcode:2003AnBeh..65..257W. doi:10.1006/anbe.2003.2054. S2CID 53184279.
+ Wallraff, H.G. (1999). "The roles of the sun and the landscape in pigeon homing". Journal of Experimental Biology. 202 (16): 2121–2126. Bibcode:1999JExpB.202.2121W. doi:10.1242/jeb.202.16.2121. PMID 10409483.
+ Kramer., Gustav (3 April 2008). "Experiments in bird orientation". Ibis. 94 (2): 265–285. doi:10.1111/j.1474-919X.1952.tb01817.x.
+ Baker, R.R. (1984). Bird Navigation: The Solution of a Mystery? London: Hodder & Stoughton.
+ Kamil, A.C.; Cheng, K. (2001). "Way-finding and landmarks: the multiple-bearing hypothesis". Journal of Experimental Biology. 204 (Pt 1): 103–113. Bibcode:2001JExpB.204..103K. doi:10.1242/jeb.204.1.103. PMID 11104714.
+ Hagstrum, Jonathan T. (September 2001). "Infrasound and the Avian Navigational Map". Journal of Navigation. 54 (3): 377–391. Bibcode:2001JNav...54..377H. doi:10.1017/S037346330100145X. S2CID 17357175. ProQuest 229557494.
+ Able, K.P.; Able, M.A. (1993). "Daytime calibration of magnetic orientation in a migratory bird requires a view of skylight polarisation". Nature. 364 (6437): 523–525. Bibcode:1993Natur.364..523A. doi:10.1038/364523a0. S2CID 4330244.
+ Papi, Floriano (1 January 1986). "Pigeon Navigation: Solved Problems and Open Questions". Monitore Zoologico Italiano. 20 (4): 471–517. doi:10.1080/00269786.1986.10736514 (inactive 12 July 2025). INIST 8067206.
+ Benvenuti, Silvano; Ioalè, Paolo; Papi, Floriano (1992). "The Olfactory Map of Homing Pigeons". Chemical Signals in Vertebrates. Vol. 6. pp. 429–434. doi:10.1007/978-1-4757-9655-1_66. ISBN 978-1-4757-9657-5. Retrieved 11 March 2025.
+ American Pigeon Journal May 1956; Flying Tipplers Set New World Record, pp 150-151
+ Marshall, Jessica. "A Tail of Survival". www.science.org. American Association for the Advancement of Science. Retrieved 11 March 2025.
+ "Rolling and Tumbling in Pigeons". www.ufaw.org.uk. Universities Federation for Animal Welfare. Retrieved 17 March 2025.
+ Montague, Andrew (16 August 2000). Successful Shotgun Shooting. Derrydale Press. ISBN 978-1-4617-0270-2. Archived from the original on 16 December 2020. Retrieved 8 October 2021.
+ Montague, Andrew (2000). Successful Shotgun Shooting. The Derrydale Press. p. 98. ISBN 1-56833-164-9.
+ Watanabe, S.; Sakamoto, J.; Wakita, M. (March 1995). "Pigeons' discrimination of paintings by Monet and Picasso". Journal of the Experimental Analysis of Behavior. 63 (2): 165–174. doi:10.1901/jeab.1995.63-165. PMC 1334394. PMID 16812755.
+ "Pigeon Search and Rescue Project (Project Sea Hunt)". United States Coast Guard. 28 May 2009. Retrieved 12 January 2010.
+ Damian Scarf; Karoline Boy; Anelisie Uber Reinert; Jack Devine; Onur Güntürkün; Michael Colombo (2016). "Orthographic processing in pigeons (Columba livia)". Proceedings of the National Academy of Sciences. 113 (40): 11272–11276. Bibcode:2016PNAS..11311272S. doi:10.1073/pnas.1607870113. PMC 5056114. PMID 27638211.
+ Damian Scarf; Harlene Hayne; Michael Colombo (2016). "Pigeons on par with primates in numerical competence". Science. 334 (6063): 1664. doi:10.1126/science.1213357. PMID 22194568. S2CID 33936018.
+ Levenson, Richard M.; Krupinski, Elizabeth A.; Navarro, Victor M.; Wasserman, Edward A. (2015). "Pigeons (Columba livia) as Trainable Observers of Pathology and Radiology Breast Cancer Images". PLOS ONE. 10 (11) e0141357. Bibcode:2015PLoSO..1041357L. doi:10.1371/journal.pone.0141357. PMC 4651348. PMID 26581091.
+ "Pigeons As Pets: Outside or Indoors". pigeonrescue.org. Palomacy. 24 May 2013. Retrieved 11 March 2025.
+ Qureshi, Nabila. "Meet the N.L. couple finding happiness in pet pigeons". CBC News. Retrieved 29 January 2025.
+ Grace, Asia (6 March 2024). "I potty-trained my pet pigeon — now I treat her to NYC's finest restaurants, cool parties and Uber rides". nypost.com. New York Post. Retrieved 19 February 2025.
+ Jerolmack, C. (12 April 2007). "Animal archeology: Domestic pigeons and the nature-culture dialectic". Qualitative Sociology Review. 3 (1): 74–95. doi:10.18778/1733-8077.3.1.06. Retrieved 11 March 2025.
+ Milstein, Michael (9 June 2007). "Fight pits pigeon, hawk lovers". The Oregonian. Archived from the original on 2 January 2008. Retrieved 11 June 2007.
+ Smith, Lewis (30 May 2008). "Pigeon fanciers blamed for trap campaign to kill peregrine falcons" (Online news). London: Times Online. Retrieved 20 June 2008.[dead link]
+ Pielowski, Z (1961). "Uber den Unifikationseinfluss der selektiven Narhungswahl des Habichts, Accipiter gentilis L., auf Haustauben". Ekologa Polska. 9: 183–194.
+ Rutz, C (2012). "Predator fitness increases with selectivity for odd prey". Current Biology. 22 (9): 820–824. Bibcode:2012CBio...22..820R. doi:10.1016/j.cub.2012.03.028. PMID 22503502.
+ Porter, Cynthya. "Goodview man finds racing pigeon". Winona Post. Archived from the original on 18 July 2011. Retrieved 15 July 2008.
+ Soniak, Matt (14 November 2016). "The Origins of Our Misguided Hatred for Pigeons". www.audubon.org. National Audubon Society. Retrieved 11 March 2025.
+External links
+National Pigeon Association (USA)
+National Pigeon Association (Great Britain) Archived 28 July 2013 at the Wayback Machine
+The Canadian Pigeon Fanciers Association
+Domestic Pigeons Explained (Pigeonpedia)
+Pigeonetics, a game by the University of Utah
+Pigeons Do Backflips? How Genetics Makes Them Flip!
+vte
+Pigeons and doves (Columbidae)
+vte
+Human use of birds
+Taxon identifiers
+Columba livia f. domestica	
+Wikidata: Q204179EURING: 6657GBIF (old): 9310871iNaturalist: 122767NCBI: 8932NZOR: 571396f1-43c3-4e68-b67a-751bd6121ddaOpen Tree of Life: 938416
+Authority control databases Edit this at Wikidata	
+GND
+Categories: Domesticated animalsBirds described in 1789Columba (genus)Domesticated birdsDomestic pigeonsSubspecies
+This page was last edited on 14 August 2026, at 16:51 (UTC). Page was rendered with Parsoid.
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaLegal & safety contactsCode of ConductDevelopersStatisticsCookie statementMobile view
+Wikimedia Foundation
+Powered by MediaWiki
