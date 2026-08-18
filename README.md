@@ -1,12 +1,16 @@
 <p align="center">
-  <img src="./assets/logo.png" alt="PiTokenizer" width="256">
+  <img src="./assets/logo.png" alt="PiTokenizer" width="350">
 </p>
 
-**PiTokenizer** is a small, from-scratch implementation of byte-level Byte Pair Encoding (BPE). It is designed to make the core tokenizer algorithms easy to read, train, save, and reuse.
+PiTokenizer is a compact Python library for studying and building tokenizer
+implementations. It currently includes byte-level BPE tokenizers, from a small
+reference implementation to a GPT-4-compatible fixed encoding.
 
-The project follows an educational approach. GPT-2 and tiktoken are used as behavioural references for regex pre-tokenisation and the fixed GPT-4 encoding.
+The code is written for clarity and experimentation. GPT-2 informs the regex
+pre-tokenisation behaviour, while tiktoken provides the published ranks for
+the fixed `cl100k_base` encoding.
 
-## Project layout
+## Repository layout
 
 ```text
 .
@@ -22,15 +26,57 @@ The project follows an educational approach. GPT-2 and tiktoken are used as beha
 └── pyproject.toml
 ```
 
-`src/` contains only installable package code. Tests remain at the repository root because they are development code and are not part of the package wheel.
+## Quick start
 
-## Installation
+### Install
 
-The project uses uv. Synchronize the project environment and development dependencies from the repository root:
+The project uses uv. From the repository root, synchronize the environment:
 
 ```bash
 uv sync --dev
 ```
+
+### Train
+
+Training is configured with YAML. The provided
+[configs/regex.yaml](configs/regex.yaml) trains `RegexTokenizer` over the
+included dataset:
+
+```yaml
+model:
+  name: RegexTokenizer
+  kwargs:
+    pattern: GPT4_PATTERN
+
+training:
+  vocab_size: 8192
+
+datasets:
+  - wikipedia_pigeons.txt
+```
+
+Run it with the installed command:
+
+```bash
+uv run pitokenizer-train configs/regex.yaml
+```
+
+Each run creates a versioned checkpoint:
+
+```text
+checkpoints/RegexTokenizer/version_1/
+├── config.yaml
+└── weights.json
+```
+
+### Inspect a checkpoint
+
+```bash
+uv run pitokenizer-inference checkpoints/RegexTokenizer/version_1/weights.json
+```
+
+The prompt prints the encoded IDs, the byte expansion of each token, and the
+final decoded text. Type `exit` or press Ctrl-D to quit.
 
 ## Tokenizers
 
@@ -42,54 +88,35 @@ uv sync --dev
 
 All byte-level BPE tokenizers begin with the 256 possible byte values. This makes UTF-8 encoding and decoding lossless.
 
-## Train a tokenizer
+## Training configuration
 
-Training is driven by YAML. The provided [configs/regex.yaml](configs/regex.yaml) is a complete example.
-
-Supported model names are the keys in `pitokenizer.AVAILABLE_MODELS`: `BasicTokenizer`, `RegexTokenizer`, and `GPT4Tokenizer`. The last one has fixed weights and cannot be trained.
+Supported model names are the keys in `pitokenizer.AVAILABLE_MODELS`:
+`BasicTokenizer`, `RegexTokenizer`, and `GPT4Tokenizer`. `GPT4Tokenizer` has
+fixed weights and cannot be trained.
 
 Dataset entries can be absolute paths, paths relative to the configuration file, or file names resolved from `datasets/`.
 
-Run training with either the package entry point:
+The installed command is:
 
 ```bash
 uv run pitokenizer-train configs/regex.yaml
 ```
 
-or the module form:
+The module form is also available:
 
 ```bash
 uv run python -m pitokenizer.train configs/regex.yaml
 ```
 
-Each run creates the next available checkpoint directory:
-
-```text
-checkpoints/
-└── RegexTokenizer/
-    └── version_1/
-        ├── config.yaml
-        └── weights.json
-```
-
 `config.yaml` is a copy of the training configuration. `weights.json` contains the model data: merge rules for trainable BPE tokenizers, plus the selected pattern for `RegexTokenizer`.
 
-If the requested vocabulary is larger than the corpus can support, training stops after every possible merge and still saves the resulting valid model. The training CLI reports the vocabulary size that was actually reached.
-
-## Interactive inference
-
-Pass a checkpoint JSON file to the inference CLI:
-
-```bash
-uv run pitokenizer-inference checkpoints/RegexTokenizer/version_1/weights.json
-```
-
-The CLI reads the sibling `config.yaml` to select the tokenizer class, then prints the encoded IDs and the byte expansion of every individual token. Type `exit` or press Ctrl-D to quit.
+If the requested vocabulary is larger than the corpus can support, training
+stops after every possible merge and saves the resulting valid model. The CLI
+reports the vocabulary size that was actually reached.
 
 ## Use a checkpoint from Python
 
-After installing PiTokenizer as a package, load a trainable model explicitly
-with its tokenizer class:
+Load a trainable model explicitly with its tokenizer class:
 
 ```python
 from pathlib import Path
@@ -119,11 +146,16 @@ Final Decode: Hello pigeon! Welcome to the world!
 
 See [examples/load_regex_checkpoint.py](examples/load_regex_checkpoint.py) for the complete executable example.
 
-The saved JSON does not include a tokenizer type field by design. This keeps model files minimal, but means Python code must select the correct concrete class when loading. The inference CLI gets that class from the copied YAML configuration.
+> **Note**
+> Saved JSON does not include a tokenizer type field. Python code must select
+> the concrete class when loading; the inference CLI reads it from the sibling
+> `config.yaml`.
 
 ## GPT-4-compatible encoding and special tokens
 
-`GPT4Tokenizer` uses tiktoken's published `cl100k_base` merge ranks. It is a fixed inference tokenizer, not a trainable model. Standard special tokens are preserved when saved and loaded.
+`GPT4Tokenizer` uses tiktoken's published `cl100k_base` merge ranks. It is a
+fixed inference tokenizer, not a trainable model. Standard special tokens are
+preserved when saved and loaded.
 
 Special-looking text is treated as ordinary text by default. Explicitly opt in when special tokens should be interpreted:
 
