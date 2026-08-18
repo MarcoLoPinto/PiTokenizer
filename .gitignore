@@ -2,7 +2,7 @@
 #       Custom       #
 ######################
 
-
+checkpoints/*
 
 ######################
 #  Python Gitignore  #
