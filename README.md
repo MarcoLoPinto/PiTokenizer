@@ -1,6 +1,8 @@
-# PiTokenizer
+<p align="center">
+  <img src="./assets/logo.png" alt="PiTokenizer" width="256">
+</p>
 
-PiTokenizer is a small, from-scratch implementation of byte-level Byte Pair Encoding (BPE). It is designed to make the core tokenizer algorithms easy to read, train, save, and reuse.
+**PiTokenizer** is a small, from-scratch implementation of byte-level Byte Pair Encoding (BPE). It is designed to make the core tokenizer algorithms easy to read, train, save, and reuse.
 
 The project follows an educational approach. GPT-2 and tiktoken are used as behavioural references for regex pre-tokenisation and the fixed GPT-4 encoding.
 
@@ -104,6 +106,15 @@ print("Input:", text)
 print("Tokens:", ids)
 print("Decoded:", [tokenizer.decode([token_id]) for token_id in ids])
 print("Final Decode:", tokenizer.decode(ids))
+```
+
+Example output:
+
+```text
+Input: Hello pigeon! Welcome to the world!
+Tokens: [72, 677, 111, 291, 33, 361, 360, 99, 457, 308, 269, 1237, 33]
+Decoded: ['H', 'ell', 'o', ' pigeon', '!', ' W', 'el', 'c', 'ome', ' to', ' the', ' world', '!']
+Final Decode: Hello pigeon! Welcome to the world!
 ```
 
 See [examples/load_regex_checkpoint.py](examples/load_regex_checkpoint.py) for the complete executable example.
