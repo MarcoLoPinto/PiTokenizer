@@ -41,20 +41,19 @@ def test_training_matches_the_canonical_toy_example():
     assert tokenizer.decode([258, 100, 258, 97, 99]) == "aaabdaaabac"
 
 
-def test_training_requires_a_possible_merge():
+def test_training_stops_at_the_largest_vocab_size_the_text_allows():
     tokenizer = BasicTokenizer()
-    with pytest.raises(ValueError, match="vocab_size 257 exceeds the maximum 256"):
-        tokenizer.train("a", 257)
+    tokenizer.train("a", 257)
+    assert len(tokenizer.vocab) == 256
 
 
-def test_training_rejects_a_vocabulary_larger_than_the_text_allows():
+def test_training_keeps_all_possible_merges_when_the_request_is_too_large():
     tokenizer = BasicTokenizer()
     tokenizer.train("aaaa", 257)
+    tokenizer.train("aaaa", 260)
 
-    with pytest.raises(ValueError, match="vocab_size 260 exceeds the maximum 258"):
-        tokenizer.train("aaaa", 260)
-
-    assert tokenizer.encode("aaaa") == [256, 256]
+    assert len(tokenizer.vocab) == 258
+    assert tokenizer.encode("aaaa") == [257]
 
 
 def test_save_and_load_rebuild_the_same_model(tmp_path):

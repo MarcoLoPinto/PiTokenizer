@@ -49,10 +49,8 @@ class RegexTokenizer(BytePairTokenizer):
         for token_id in range(256, vocab_size):
             counts = self._count_pairs(chunks)
             if not counts:
-                raise ValueError(
-                    f"vocab_size {vocab_size} exceeds the maximum "
-                    f"{token_id} for this training text"
-                )
+                # All pre-tokenized chunks are fully merged; no further rule exists.
+                break
             pair = max(counts, key=counts.__getitem__)
             chunks = [self.replace_pair(chunk, pair, token_id) for chunk in chunks]
             merges[pair] = token_id

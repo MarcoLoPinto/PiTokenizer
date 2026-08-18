@@ -28,10 +28,8 @@ class BasicTokenizer(BytePairTokenizer):
         for token_id in range(256, vocab_size):
             counts = self.pair_counts(ids)
             if not counts:
-                raise ValueError(
-                    f"vocab_size {vocab_size} exceeds the maximum "
-                    f"{token_id} for this training text"
-                )
+                # The corpus is fully merged, so publish the smaller valid model.
+                break
 
             # Select the most frequent adjacent pair in the current representation.
             # If frequencies are equal, Counter preserves first-seen order and max()

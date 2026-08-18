@@ -109,13 +109,20 @@ def train_from_config(config_path: Path) -> Path:
     model = config["model"]
     model_name = model["name"]
     text = "\n".join(path.read_text(encoding="utf-8") for path in dataset_paths(config, config_path))
-    tokenizer.train(text, training_vocab_size(config))
+    requested_vocab_size = training_vocab_size(config)
+    tokenizer.train(text, requested_vocab_size)
 
     checkpoint_directory = next_checkpoint_directory(model_name)
     checkpoint_directory.mkdir()
     tokenizer.save(checkpoint_directory / "weights.json")
     # A fixed name lets inference recover the construction settings from weights alone.
     shutil.copy2(config_path, checkpoint_directory / "config.yaml")
+    actual_vocab_size = len(tokenizer.vocab)
+    if actual_vocab_size < requested_vocab_size:
+        print(
+            f"Requested vocab_size {requested_vocab_size}; "
+            f"saved the maximum reachable size {actual_vocab_size}."
+        )
     return checkpoint_directory
 
 
