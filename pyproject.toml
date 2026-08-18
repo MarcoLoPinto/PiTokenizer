@@ -10,6 +10,10 @@ dependencies = [
     "tiktoken>=0.14.0",
 ]
 
+[project.scripts]
+pitokenizer-train = "pitokenizer.train:main"
+pitokenizer-inference = "pitokenizer.inference:main"
+
 [dependency-groups]
 dev = [
     "pytest>=7.0"
