@@ -4,7 +4,7 @@ model:
     pattern: GPT4_PATTERN
 
 training:
-  vocab_size: 4096
+  vocab_size: 8192
 
 datasets:
   - wikipedia_pigeons.txt
